@@ -2,6 +2,9 @@ body{
 	background: #ccc;
 	font-family: comic sans ms
 }
+body:hover{
+	display: none;
+}
 h1{
 	color:#F0FF00;
 }
