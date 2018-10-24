@@ -1,9 +1,9 @@
 body{
 	background: #ccc;
-	font-family: comic sans ms
+	font-family: comic sans ms;
 }
 body:hover{
-	display: none;
+	transform: rotate(70deg);
 }
 h1{
 	color:#F0FF00;
