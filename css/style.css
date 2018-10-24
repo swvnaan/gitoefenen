@@ -2,8 +2,17 @@ body{
 	background: #ccc;
 	font-family: comic sans ms
 }
+h1{
+	color:#F0FF00;
+}
+h1:hover{
+	
+}
 ul:hover{
- 	background:#ef1265;
+ 	background:#ef1265; 
+}
+h2{
+ background: #12EFF2
 }
 p{
 	color:#3333ff;
