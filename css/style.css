@@ -2,11 +2,6 @@ body{
 	background: #ccc;
 	font-family: comic sans ms;
 }
-body:hover{
-	transform: rotate(70deg);
-	width: 10%;
-	height: 10%;
-}
 h1{
 	color:#F0FF00;
 }
