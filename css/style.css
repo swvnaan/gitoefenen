@@ -1,11 +1,9 @@
 body{
-	background: #ccc
+	background: #ccc;
+	font-family: comic sans ms
 }
 ul:hover{
  	background:#ef1265;
-}
-h2:hover{
-	font-size: 100px
 }
 p{
 	color:#3333ff;
