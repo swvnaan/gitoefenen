@@ -1,0 +1,9 @@
+body{
+	background: #ccc
+}
+ul:hover{
+ 	background:#ef1265;
+}
+h2:hover{
+	font-size: 100px
+}
